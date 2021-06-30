@@ -3,8 +3,7 @@ solution: LolSharp.sln
 mono: none
 dotnet: 5.0.301
 install:
-  - nuget restore LolSharp.sln
-  - nuget install Spectre.Console -Version 0.40.1-preview.0.13
+  - dotnet add package Spectre.Console -Version 0.40.1-preview.0.13
 script:
  - dotnet restore
  - dotnet run
