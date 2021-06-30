@@ -1,7 +1,7 @@
 # LolSharp
 C# version of busyloop's lolcat [https://github.com/busyloop/lolcat]
 
-![GitHub](https://img.shields.io/github/license/UltraStudioLTD/LolSharp)
+![GitHub](https://img.shields.io/github/license/UltraStudioLTD/LolSharp?logo=gnu)
 ![GitHub repo size](https://img.shields.io/github/repo-size/UltraStudioLTD/LolSharp?logo=github)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/UltraStudioLTD/LolSharp?logo=github)
 ![GitHub language count](https://img.shields.io/github/languages/count/UltraStudioLTD/LolSharp?logo=github)
