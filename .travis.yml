@@ -1,0 +1,7 @@
+language: csharp
+solution: LolSharp.sln
+mono: none
+dotnet: 5
+install:
+  - nuget restore LolSharp.sln
+  - nuget install Spectre.Console -Version 0.40.1-preview.0.13
