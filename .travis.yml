@@ -3,5 +3,5 @@ solution: LolSharp.sln
 mono: none
 dotnet: 5.0.301
 script:
- - dotnet add package Spectre.Console --version 0.40.0
+ - dotnet add LolSharp package Spectre.Console --version 0.40.0
  - dotnet run
